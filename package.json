@@ -1,5 +1,5 @@
 {
-  "name": "json-server",
+  "name": "json-serve",
   "version": "0.1.0",
   "description": "",
   "bin": "./index.js",
